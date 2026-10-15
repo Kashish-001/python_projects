@@ -18,9 +18,9 @@ inventory = [
     {"name": "Headphones",   "category": "Electronics", "price": 1500,  "quantity": 30},
     {"name": "Notebook",     "category": "Stationery",  "price": 60,    "quantity": 100},
     {"name": "Pen",          "category": "Stationery",  "price": 10,    "quantity": 200},
-    {"name": "Rice Bag",     "category": "Grocery",     "price": 650,   "quantity": 25},
+    {"name": "Rice",     "category": "Grocery",     "price": 650,   "quantity": 25},
     {"name": "Sugar",        "category": "Grocery",     "price": 45,    "quantity": 50},
-    {"name": "Office Chair", "category": "Furniture",   "price": 4500,  "quantity": 8},
+    {"name": "Chair", "category": "Furniture",   "price": 4500,  "quantity": 8},
 ]
 
 while True:
