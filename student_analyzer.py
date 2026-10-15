@@ -13,7 +13,7 @@ Purpose:
 """
 
 # ---------------- Constants ----------------
-NUM_STUDENTS = 5          # number of students to process
+Num_Students = 5          # number of students to process
 NUM_SUBJECTS = 3          # number of subjects
 MAX_MARKS = 100           # maximum marks per subject
 SUBJECT_PASS_MARK = 35    # minimum marks required in each subject
@@ -26,7 +26,7 @@ students = []
 # ---------------- Input and processing ----------------
 print("=== Student Performance Analyzer ===\n")
 
-for i in range(NUM_STUDENTS):
+for i in range(Num_Students):
     print(f"--- Enter details for student {i + 1} ---")
     name = input("Enter student name: ").strip()   # strip() removes extra spaces
 
